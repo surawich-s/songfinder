@@ -9,6 +9,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+main {
+    heigth: 80vh;
+}
+
 header {
     text-align: center;
     padding: 20px;
